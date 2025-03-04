@@ -22,12 +22,13 @@ Des ressources IT regroupées et catégorisées.
 - [daisyUI](https://daisyui.com/) : Component library for Tailwind CSS.
 - [dribbble](https://dribbble.com/) : Discover the world’s top designers.
 
-# Outils de développeur
+# Outils de développeur ou de productivité
 
 - https://www.cursor.com/
 - https://compressx.app/
 - https://infisical.com/ : Open source secrets management. All-in-one platform to securely manage application secrets, certificates, SSH keys, and configurations across your team and infrastructure.
 - https://github.com/TheRealDalunacrobate/DaProfiler : DaProfiler is an OSINT tool allowing you to collect certain information about yourself in order to rectify by rgpd requests the traces you may have left on the net.
+- https://setapp.com/fr 💲 De nombreux outils de productivité pour MacOS.
 
 # IA
   
@@ -53,10 +54,22 @@ Des ressources IT regroupées et catégorisées.
 - https://docs.bullmq.io/
 - https://www.rabbitmq.com/
 
-# Meta curation
+# Curation
 
+## Technique
+
+- https://github.com/kamranahmedse/developer-roadmap : Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- https://github.com/donnemartin/system-design-primer : Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - **2025-01** Liste : https://github.com/emijrp/awesome-awesome – Et plus généralement, le topic Github [`awesome`](https://github.com/topics/awesome).
 - https://github.com/sindresorhus/awesome
+- https://github.com/kdeldycke/awesome-falsehood?tab=readme-ov-file#software-engineering : Une liste de fausses croyance dont une section concernant l'ingénierie logicielle.
+- https://github.com/EbookFoundation/free-programming-books : Une liste de ressources techniques libre d'accès en différents formats (livres, podcast, cheat sheets, cours en ligne) regroupé par thème ou language de programmation.
+- https://github.com/trimstray/the-book-of-secret-knowledge : A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+
+## Littéraire
+
+- https://github.com/dwyl/quotes
+
 
 # Produit
 
