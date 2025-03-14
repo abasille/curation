@@ -13,20 +13,19 @@ Voici la liste des outils mentionnés dans cette discussion :
 | **ChatGPT (Pro)**     | Chatbot IA avancé d'OpenAI | https://chat.openai.com |
 | **Claude (Anthropic)**| Modèle de langage concurrent de GPT | https://www.anthropic.com |
 | **Mistral**           | Modèle français open source performant | https://mistral.ai |
-| **Bolt**              | Générateur d’apps/sites web par prompt (utilise Claude) | https://bolt.new |
-| **Lovable (ou Lobeable)** | Outil similaire à Bolt, plus UX orienté | https://lovable.so |
-| **Pimento**           | Outil de création visuelle avec contrôle via modèles LoRA | https://pimento.ai |
+| **Bolt**              | Générateur d’apps/sites web par prompt (utilise Claude) | https://bolt.new/ |
+| **Lovable** | Outil similaire à Bolt, plus UX orienté | https://lovable.dev/ |
+| **Pimento**           | Outil de création visuelle avec contrôle via modèles LoRA | https://www.pimento.design/fr |
 | **Midjourney**        | Générateur d’images IA (via Discord) | https://www.midjourney.com |
-| **Operator**          | Assistant intelligent connecté au web (utilise ChatGPT) | https://operator.co |
-| **VO2 (par Freepik)** | Générateur de vidéos IA (anciennement Magnific) | https://www.freepik.com/ai-video |
+| **Operator**          | Assistant intelligent connecté au web (par OpenAI) | https://operator.chatgpt.com/ |
 | **Freepik**           | Plateforme créative intégrant des outils IA | https://www.freepik.com |
-| **Cursor**            | IDE intelligent (coding assisté par IA) | https://www.cursor.so |
-| **Rlite**             | IDE en langage naturel (pour coder sans coder) | https://www.rlite.ai |
+| **Cursor**            | IDE intelligent (coding assisté par IA) | https://www.cursor.com/ |
+| **replit**             | IDE en langage naturel (pour coder sans coder) | https://replit.com/ |
 | **Argil**             | Générateur d’avatars et outils visuels IA français | https://argil.ai |
-| **Agen**              | Outil de génération d’avatars vidéos (deepfake-like) | https://www.agen.ai |
+| **HeyGen**              | Outil de génération d’avatars vidéos (deepfake-like) | https://www.heygen.com/ |
 | **Tripot / Tripo**    | Outil de transformation d'image en 3D | https://tripo3d.ai |
 | **Superbase (Supabase)** | Base de données open source (alternative Firebase) | https://supabase.com |
-| **ComfyUI**           | Interface visuelle de création de workflows IA (Stable Diffusion, etc.) | https://comfyui.org |
+| **ComfyUI**           | Interface visuelle de création de workflows IA (Stable Diffusion, etc.) | https://github.com/comfyanonymous/ComfyUI |
 | **Pika Labs**         | Générateur vidéo avec effets spéciaux (SFX) | https://www.pika.art |
 
 ---
@@ -35,7 +34,7 @@ Voici la liste des outils mentionnés dans cette discussion :
 
 | Nom | Description | URL |
 |-----|-------------|-----|
-| **La newsletter d’Emmanuel Vivier** | Revue exhaustive sur l'IA générative | [LinkedIn d'Emmanuel Vivier](https://www.linkedin.com/in/emmanuelvivier/) (pas de site direct mentionné) |
+| **La newsletter d’Emmanuel Vivier** | Revue exhaustive sur l'IA générative | [Lien Linkedin](https://www.linkedin.com/newsletters/7026164117967110144/) |
 
 ---
 
@@ -45,7 +44,6 @@ Voici la liste des outils mentionnés dans cette discussion :
 |-----|-------------|-----|
 | **Sora (OpenAI)** | Générateur de vidéos (encore en accès restreint) | https://openai.com/sora |
 | **Wix** | Créateur de site no-code | https://www.wix.com |
-| **Rephase** | Mentionné indirectement comme technique pour augmenter la résolution | https://rephrase.ai (à vérifier selon contexte) |
 
 ---
 
