@@ -1,6 +1,8 @@
 # Podcast — 🎸 Vibe Coding : Coder Sans Coder, Le Futur Selon Mathieu !
 
-🎥 https://www.youtube.com/watch?v=FE76HxFy218
+<img width="289" alt="image" src="https://github.com/user-attachments/assets/6d72153e-1d6b-499d-b730-7a2a00986232" />
+
+https://shows.acast.com/comptoir-ia/episodes/vibe-coding-coder-sans-coder-le-futur-selon-mathieu
 
 Voici la liste des outils mentionnés dans cette discussion :
 
