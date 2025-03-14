@@ -51,3 +51,4 @@ Voici la liste des outils mentionnés dans cette discussion :
 
 - Transcription de la vidéo par [submagic.co](https://www.submagic.co/fr/outils/generateur-de-transcription-youtube).
 - Extraction des outils mentionnés via ChatGPT 4o.
+- Vérification et correction manuelle de 75% des liens.
